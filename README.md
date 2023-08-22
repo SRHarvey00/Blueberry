@@ -1,3 +1,5 @@
+![Blueberry🫐](https://github.com/SRHarvey00/Blueberry/assets/131985528/5d01eef2-ea20-4b97-8e21-776df888cb9b)
+
 # Blueberry
  Currently Playing Spotify Song As Wallpaper for Gnome and inital support for MacOS
  
