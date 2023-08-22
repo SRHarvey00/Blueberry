@@ -1,7 +1,7 @@
 ![Blueberry🫐](https://github.com/SRHarvey00/Blueberry/assets/131985528/5d01eef2-ea20-4b97-8e21-776df888cb9b)
 
 # Blueberry
- Currently Playing Spotify Song As Wallpaper for Gnome and inital support for MacOS
+ Blueberry is a program that displays a user's 'Currently Playing' Spotify Song As Wallpaper for Gnome and inital support for MacOS.
  
  
 
@@ -24,14 +24,15 @@
 
 # Usage
 
-1. Download the repo 
-2. Start listening to music on Spotify
-3. Enter your spotify credentials in the txt file
-4. Run commands in requirments.txt
-5. Run the main.py file
-6. Log in if web page comes up
-7. Copy link of web page after signing in and paste into teminal
-8. Profit?
+1. Download the repository
+   -
+3. Start listening to music on Spotify
+4. Enter your spotify credentials in the txt file
+5. Run commands in requirments.txt
+6. Run the main.py file
+7. Log in if web page comes up
+8. Copy link of web page after signing in and paste into teminal
+9. Profit?
 
 # Fixing Permission Denied Mac
 
